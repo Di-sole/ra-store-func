@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+[![Build status](https://ci.appveyor.com/api/projects/status/dxi9k5ju6y3m5u5s?svg=true)](https://ci.appveyor.com/project/Di-sole/ra-store-func)
+# Страница интернет-магазина
+[GitHub Pages](https://di-sole.github.io/ra-store-func/) 
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
